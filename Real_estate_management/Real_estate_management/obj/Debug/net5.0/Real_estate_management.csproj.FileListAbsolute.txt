@@ -1,0 +1,15 @@
+C:\Users\nk\source\repos\Real_estate_management\Real_estate_management\bin\Debug\net5.0\Real_estate_management.exe
+C:\Users\nk\source\repos\Real_estate_management\Real_estate_management\bin\Debug\net5.0\Real_estate_management.deps.json
+C:\Users\nk\source\repos\Real_estate_management\Real_estate_management\bin\Debug\net5.0\Real_estate_management.runtimeconfig.json
+C:\Users\nk\source\repos\Real_estate_management\Real_estate_management\bin\Debug\net5.0\Real_estate_management.runtimeconfig.dev.json
+C:\Users\nk\source\repos\Real_estate_management\Real_estate_management\bin\Debug\net5.0\Real_estate_management.dll
+C:\Users\nk\source\repos\Real_estate_management\Real_estate_management\bin\Debug\net5.0\ref\Real_estate_management.dll
+C:\Users\nk\source\repos\Real_estate_management\Real_estate_management\bin\Debug\net5.0\Real_estate_management.pdb
+C:\Users\nk\source\repos\Real_estate_management\Real_estate_management\obj\Debug\net5.0\Real_estate_management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nk\source\repos\Real_estate_management\Real_estate_management\obj\Debug\net5.0\Real_estate_management.AssemblyInfoInputs.cache
+C:\Users\nk\source\repos\Real_estate_management\Real_estate_management\obj\Debug\net5.0\Real_estate_management.AssemblyInfo.cs
+C:\Users\nk\source\repos\Real_estate_management\Real_estate_management\obj\Debug\net5.0\Real_estate_management.csproj.CoreCompileInputs.cache
+C:\Users\nk\source\repos\Real_estate_management\Real_estate_management\obj\Debug\net5.0\Real_estate_management.dll
+C:\Users\nk\source\repos\Real_estate_management\Real_estate_management\obj\Debug\net5.0\ref\Real_estate_management.dll
+C:\Users\nk\source\repos\Real_estate_management\Real_estate_management\obj\Debug\net5.0\Real_estate_management.pdb
+C:\Users\nk\source\repos\Real_estate_management\Real_estate_management\obj\Debug\net5.0\Real_estate_management.genruntimeconfig.cache
